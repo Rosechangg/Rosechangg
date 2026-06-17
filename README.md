@@ -14,18 +14,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rosechangg&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="profile views" />
 </p>
-
----
-
-### 👋 About Me
-
-> I'm a **Senior Researcher at ETRI**, South Korea, and a **Ph.D. holder**.
-> My work centers on **Human-Centered AI** and **Human-Computer Interaction (HCI)**.
-
----
-
-### 📊 Most Used Languages
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosechangg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
